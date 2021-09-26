@@ -27,3 +27,6 @@ Hazır data için db.json dosyasını kullanabilirsiniz. Bu dosyayı json-server
     * Alışveriş sepei bilgileri yer alacaktır.
     * Alınan tüm ürünlerin fiyatı hesaplanıp görüntülenecektir.
     * Eklenen ürün Remove butonu ile sepetten çıkarılabilecektir.
+
+## Notlar
+* Proje içerisinde react-router-dom ve ant design eklenmiştir. Bu kütüphaneleri direkt olarak kullanabilirsiniz.
